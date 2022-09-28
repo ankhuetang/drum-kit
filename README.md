@@ -1,5 +1,6 @@
 # drum-kit
-link to website: https://ankhuetang.github.io/drum-kit/
+Link to website: https://ankhuetang.github.io/drum-kit/
+
 Created a functional website that serves as a drum-kit.
 Users can use the drums through either kerboard or mouse. 
 Utilized jQuery to manipulate text, atributes, elements and addEventListeners to the JavaScript file. 
